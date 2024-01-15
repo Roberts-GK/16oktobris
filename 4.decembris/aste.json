@@ -1,0 +1,10 @@
+{
+"Vards": "Gints",
+"uzvards": "Bērzs",
+"vecums":30,
+"adrese":{
+    "iela":"Blaumaņa 22",
+    "pilseta":"Liepāja",
+    "valsts":"Latvija"
+},
+"intereses": ["Programmēšana", "ceļošana", "lasīšana"]
